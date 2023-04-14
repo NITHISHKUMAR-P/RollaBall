@@ -30,15 +30,15 @@ Metallic map-> 0
 Smoothness -> 0.25
 Drag the Background to the plane and release the mouse
 
-Material folder -> Create -> Material (Name: Sphere)
+7. Material folder -> Create -> Material (Name: Sphere)
 Inspector ->Surface Inputs ->BaseMAp (Choose the color)
 Metallic map-> 0
 Smoothness -> 0.75
 Drag the Sphere material to the ball and release the mouse
 
-7. Hierarchy -> Player-> Inspector ->Add component-> Rigidbody
+8. Hierarchy -> Player-> Inspector ->Add component-> Rigidbody
 
-8. Create a new script -> Create a folder in project (Name: Scripts)
+9. Create a new script -> Create a folder in project (Name: Scripts)
 Hierarchy -> Player -> Inspector-> AddComponent-> NewScripts-> PlayerController( Click create and Add)
 Copy the PlayerController and drag to Script folder
 Double click the PlayerController file and type the coding
